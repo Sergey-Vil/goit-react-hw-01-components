@@ -1,0 +1,21 @@
+.statistics {
+  height: 200px;
+  width: 640px;
+  margin-top: 30px;
+  background-color: rgb(235, 237, 238);
+}
+.title {
+  text-align: center;
+  color: rgb(5, 5, 36);
+}
+ul {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+}
+.item {
+  align-items: center;
+  width: 120px;
+  padding-left: 0;
+  border: 3px solid rgb(0, 0, 0);
+}
