@@ -11,7 +11,7 @@ export const Statistics = ({ title, stats }) => {
   ))
 return(
   <section className={css.statistics}>
-    <h2 className="title">{title}</h2>
+    <h2 className={css.title}>{title}</h2>
     <ul className="stat-list">{statEl}</ul>
   </section> )
 };
