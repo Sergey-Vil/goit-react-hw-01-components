@@ -1,0 +1,14 @@
+th {
+  text-align: center;
+  padding: 10px;
+  color: rgb(6, 5, 40);
+  background-color: #8dbefa98;
+
+  border: 5px solid rgb(6, 8, 41);
+}
+td {
+  text-align: center;
+  padding: 10px;
+  background-color: #ebf3f698;
+  border: 5px solid rgb(6, 8, 41);
+}
