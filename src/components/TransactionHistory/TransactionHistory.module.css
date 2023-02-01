@@ -12,3 +12,6 @@ td {
   background-color: #ebf3f698;
   border: 5px solid rgb(6, 8, 41);
 }
+.transaction_history {
+  text-align: center;
+}
